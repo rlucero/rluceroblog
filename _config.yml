@@ -10,7 +10,7 @@ title: Hacking Made Easy
 email: robert.lucero@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hacking, software testing and general musings on technology. Sometimes there are tutorials.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "rluceroblog" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jediguybob
 github_username:  rlucero
