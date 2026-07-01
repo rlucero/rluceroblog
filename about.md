@@ -4,31 +4,24 @@ title: About
 permalink: /about/
 ---
 
-Robert Lucero is a Seattle-based technologist with public work across software,
-security, and conference badge projects.
+Robert Lucero is a Seattle-based software engineering leader with experience
+in platform security, infrastructure strategy, and technical community building.
 
-## Public highlights
+## Professional highlights
 
-- **Security speaking:** public conference materials include BSides Las Vegas
-  2014 and BSides San Francisco 2015 sessions focused on certificate security
-  and service infrastructure risk.
-- **Badge and hardware work:** GitHub repositories connect Robert to DCZia
-  badge code and DEF CON badge collaboration.
-- **Open source presence:** public repositories span demos, presentations, and
-  event-focused build work.
+- **Platform and security engineering:** deep experience with certificate trust,
+  service infrastructure, and establishing secure-by-default practices across
+  engineering organizations.
+- **Conference speaking:** delivered technical sessions at BSides Las Vegas 2014
+  and BSides San Francisco 2015 on certificate security and infrastructure risk.
+- **Open source and community:** active contributor to DEF CON badge development
+  and the DCZia hardware community.
 
 ## Featured links
 
+- [LinkedIn](https://www.linkedin.com/in/rlucero/)
 - [GitHub profile](https://github.com/rlucero)
 - [Presentations repository](https://github.com/rlucero/talks)
 - [BSidesLV14 certificate demo](https://github.com/rlucero/BSidesLV14-CertDemo)
 - [DCZia badge code](https://github.com/rlucero/DCZiaBadge)
-- [about.me profile](http://about.me/rlucero)
 - [Bluesky](https://bsky.app/profile/rlucero.bsky.social)
-- [LinkedIn](https://www.linkedin.com/in/rlucero/)
-
-## Focus areas
-
-- Certificate and trust-chain problems in service environments
-- Conference demos and technical presentations
-- Embedded and badge-oriented maker projects
