@@ -4,12 +4,31 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Robert Lucero is a Seattle-based technologist with public work across software,
+security, and conference badge projects.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+## Public highlights
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+- **Security speaking:** public conference materials include BSides Las Vegas
+  2014 and BSides San Francisco 2015 sessions focused on certificate security
+  and service infrastructure risk.
+- **Badge and hardware work:** GitHub repositories connect Robert to DCZia
+  badge code and DEF CON badge collaboration.
+- **Open source presence:** public repositories span demos, presentations, and
+  event-focused build work.
+
+## Featured links
+
+- [GitHub profile](https://github.com/rlucero)
+- [Presentations repository](https://github.com/rlucero/talks)
+- [BSidesLV14 certificate demo](https://github.com/rlucero/BSidesLV14-CertDemo)
+- [DCZia badge code](https://github.com/rlucero/DCZiaBadge)
+- [about.me profile](http://about.me/rlucero)
+- [Bluesky](https://bsky.app/profile/rlucero.bsky.social)
+- [LinkedIn](https://www.linkedin.com/in/rlucero/)
+
+## Focus areas
+
+- Certificate and trust-chain problems in service environments
+- Conference demos and technical presentations
+- Embedded and badge-oriented maker projects

@@ -1,0 +1,6 @@
+current directory: /home/runner/work/rluceroblog/rluceroblog/vendor/bundle/ruby/3.2.0/gems/sass-embedded-1.101.0/ext/sass
+/usr/bin/ruby3.2 -I/usr/lib/ruby/vendor_ruby -rrubygems /home/runner/work/rluceroblog/rluceroblog/vendor/bundle/ruby/3.2.0/gems/rake-13.4.2/exe/rake RUBYARCHDIR\=/home/runner/work/rluceroblog/rluceroblog/vendor/bundle/ruby/3.2.0/extensions/x86_64-linux-gnu/3.2.0/sass-embedded-1.101.0 RUBYLIBDIR\=/home/runner/work/rluceroblog/rluceroblog/vendor/bundle/ruby/3.2.0/extensions/x86_64-linux-gnu/3.2.0/sass-embedded-1.101.0
+gem install --force --install-dir /home/runner/work/rluceroblog/rluceroblog/vendor/bundle/ruby/3.2.0/gems/sass-embedded-1.101.0/ext/sass/ruby --no-document --ignore-dependencies --platform x86_64-linux-gnu --version 1.101.0 sass-embedded
+mkdir -p /home/runner/work/rluceroblog/rluceroblog/vendor/bundle/ruby/3.2.0/extensions/x86_64-linux-gnu/3.2.0/sass-embedded-1.101.0/sass
+mv /home/runner/work/rluceroblog/rluceroblog/vendor/bundle/ruby/3.2.0/gems/sass-embedded-1.101.0/ext/sass/ruby/gems/sass-embedded-1.101.0-x86_64-linux-gnu/lib/sass/dart-sass /home/runner/work/rluceroblog/rluceroblog/vendor/bundle/ruby/3.2.0/extensions/x86_64-linux-gnu/3.2.0/sass-embedded-1.101.0/sass/dart-sass
+rm -rf /home/runner/work/rluceroblog/rluceroblog/vendor/bundle/ruby/3.2.0/gems/sass-embedded-1.101.0/ext/sass/ruby

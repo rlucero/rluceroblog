@@ -6,14 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Hacking Made Easy
+title: Robert Lucero
 email: robert.lucero@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hacking, software testing and general musings on technology. Sometimes there are tutorials.
+  Personal site for Robert Lucero covering software engineering, security talks,
+  and hardware badge work.
 baseurl: "/rluceroblog" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jediguybob
+url: "https://rlucero.github.io" # the base hostname & protocol for your site
 github_username:  rlucero
+website_url: "http://about.me/rlucero"
+bluesky_url: "https://bsky.app/profile/rlucero.bsky.social"
+linkedin_url: "https://www.linkedin.com/in/rlucero/"
+permalink: pretty
 
 # Build settings
 markdown: kramdown
