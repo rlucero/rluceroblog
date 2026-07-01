@@ -9,12 +9,11 @@
 title: Robert Lucero
 email: robert.lucero@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Personal site for Robert Lucero covering software engineering, security talks,
-  and hardware badge work.
+  Personal site for Robert Lucero — software engineering leader focused on
+  platform security, infrastructure strategy, and technical community building.
 baseurl: "/rluceroblog" # the subpath of your site, e.g. /blog
 url: "https://rlucero.github.io" # the base hostname & protocol for your site
 github_username:  rlucero
-website_url: "http://about.me/rlucero"
 bluesky_url: "https://bsky.app/profile/rlucero.bsky.social"
 linkedin_url: "https://www.linkedin.com/in/rlucero/"
 permalink: pretty
